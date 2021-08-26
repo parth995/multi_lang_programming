@@ -1,0 +1,13 @@
+output on the console (STDOUT)
+--------------------------------
+c --> printf()
+c++ --> cout<<
+java --> System.out.println()
+python --> print()
+
+Input from the user (STDIN)
+--------------------------------
+c --> scanf()
+c++ --> cin>>
+java --> Scanner object used --> Scanner obj = new Scanner(System.in)
+python --> input()
